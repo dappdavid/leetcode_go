@@ -1,2 +1,2 @@
-# leetcode_rust
+# leetcode_go
 
